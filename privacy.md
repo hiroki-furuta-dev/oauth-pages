@@ -1,8 +1,8 @@
-# プライバシーポリシー
+# My Calendar & Note Sync プライバシーポリシー
 
 最終更新: 2026-09-19
 
-本ツールは開発者本人のみが利用するもので、一般には提供していません。
+My Calendar & Note Sync(以下「本ツール」)は、開発者本人のみが利用するもので、一般には提供していません。
 
 ## 取得する情報
 
@@ -27,11 +27,11 @@ Google アカウントの設定から、いつでもアクセス権を取り消�
 
 ---
 
-# Privacy Policy
+# My Calendar & Note Sync Privacy Policy
 
 Last updated: 2026-09-19
 
-This tool is used only by its developer and is not offered to the public.
+My Calendar & Note Sync ("this tool") is used only by its developer and is not offered to the public.
 
 - **Data accessed:** Google Calendar events and Gmail messages (read-only).
 - **Purpose:** Organizing and displaying information for the user.
