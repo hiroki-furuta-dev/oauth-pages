@@ -1,15 +1,12 @@
 # Personal Tools
 
-個人利用のための自作ツールです。利用者は作者本人のみです。
+個人が開発・運用している非公開のツールです。一般には提供していません。
 
-Google アカウントのカレンダーの予定とメールを読み取り専用で取得し、
-作者自身の日次のメモに要旨をまとめるために使います。
-
-- [プライバシーポリシー](privacy)
+一部のツールは、利用者本人の Google アカウントのデータ(カレンダー、Gmail)に読み取り専用でアクセスします。
+データの取り扱いは[プライバシーポリシー](privacy)に記載しています。
 
 ---
 
-Personal tools for the author's own use only. They read the author's own Google Calendar
-events and Gmail messages (read-only) to build a private daily summary.
-
-- [Privacy Policy](privacy)
+Privately developed tools, not offered to the public.
+Some tools access the user's own Google Account data (Calendar, Gmail) in read-only mode.
+See the [Privacy Policy](privacy).
